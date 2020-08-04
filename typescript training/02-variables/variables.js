@@ -1,0 +1,10 @@
+var found = true;
+var grade = 66.6;
+var firstName = "Yura";
+var lastName = 'Andreitsev';
+// found = 0;
+// asdasdasd;
+// grade = "AAA";
+console.log(found);
+console.log("the number is " + grade);
+console.log("Hello from " + firstName + " " + lastName);
